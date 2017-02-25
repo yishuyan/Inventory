@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="empty_view">The store is empty now, please add more products.</string>
+    <string name="detail_page">Product Detail</string>
+    <string name="add_page">Add A New Product</string>
+    <string name="add_floating">ADD</string>
+    <string name="quantity_title">Quantity : </string>
+
+    <string name="price_symbol">$</string>
+    <string name="product_name">Name</string>
+    <string name="product_price">Price</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="product_picture">Uploading Picture</string>
+    <string name="no_info">Please fill in product number or price</string>
+    <string name="add_button">Save</string>
+
+    <string name="delete_product">Delete</string>
+    <string name="sell_product">Sell</string>
+    <string name="receive_product">Receive</string>
+    <string name="save_info">Save</string>
+    <string name="input_increase">OR type the number to increase: </string>
+    <string name="input_decrease">OR type the number to decrease: </string>
+
+
+    <string name="update_failed">Error with saving information</string>
+    <string name="update_success">Save Successful</string>
+    <string name="quantity_invalid">Quantity cannot be negative!</string>
+
+    <string name="cancel_selection">Cancel</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+</resources>
